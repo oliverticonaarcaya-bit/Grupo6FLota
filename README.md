@@ -11,7 +11,14 @@ Sistema web desarrollado en PHP y MySQL para la gestión de rutas, horarios, bus
 - "Equipo 6,LIZ MADISON    CHIRINOS CUSI,"
 
 ---
+## Docente 
 
+- Juan Gabriel Lazcano Balanza
+---
+## Materia  
+- Ingenieria de Software
+---
+## UNIVERSIDAD FRANZ TAMAYO
 # Tecnologías Utilizadas
 
 - PHP 8.2
